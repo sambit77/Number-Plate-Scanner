@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "619641648787",
+    "firebase_url": "https://number-plate-scanner-f1441.firebaseio.com",
+    "project_id": "number-plate-scanner-f1441",
+    "storage_bucket": "number-plate-scanner-f1441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619641648787:android:074610b6fa86b978",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.ocrreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2EFzjLiRgqNqWjYfmZ6DFumhFzF61uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619641648787-m09ki9crm7lccdhovriri1gkd76jss2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

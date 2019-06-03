@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri May 24 22:24:16 IST 2019
+1.base=F\:\\vision api\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.path=classes2.dex
+0.baseType=DIRECTORY
+2.base=F\:\\vision api\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=F\:\\vision api\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex
