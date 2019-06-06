@@ -7,10 +7,15 @@ This android application can be downloaded by the various organisation / Residen
 
 
 Steps to download and run the source code.
+
 CLone / download zip file to your system .
+
 Extract the zip file into a folder .
+
 open the folder in android studio under "Open an existing project" .
+
 Then Connect to internet and click on sync now .
+
 Wait for gradle build to finish it depends on your internet speed .
 
 
