@@ -28,3 +28,8 @@ or can generate apk under "build" and install that apk file in android device/em
                                                                                       
      The apk file can be directly obtained from this directory
      Number-Plate-Scanner/app/build/outputs/apk/debug/
+
+   In App
+   Default admin username : admin@gmail.com
+   Password 123456
+   To get yours contact - sambitgulu@gmail.com
