@@ -3,6 +3,10 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/2a9fe86cd6f027f22abaf177d10d0837/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/2a9fe86cd6f027f22abaf177d10d0837/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/7e5ba59f053513ea0f6ffa7c3c985b5e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e686fddf0d6b0d85831678ae1f3133a2/play-services-instantapps-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e686fddf0d6b0d85831678ae1f3133a2/play-services-instantapps-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e686fddf0d6b0d85831678ae1f3133a2/play-services-instantapps-12.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

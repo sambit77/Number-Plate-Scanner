@@ -3,6 +3,10 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/75831e176f3ff1260d4bb0dcadef715c/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/75831e176f3ff1260d4bb0dcadef715c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/056e3f2bf6a43d4d52f0cbc17b6739c6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df9b19417744781670d7cede03ca11c4/palette-v7-26.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df9b19417744781670d7cede03ca11c4/palette-v7-26.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df9b19417744781670d7cede03ca11c4/palette-v7-26.1.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

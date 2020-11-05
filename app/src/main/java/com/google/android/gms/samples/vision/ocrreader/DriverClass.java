@@ -28,6 +28,7 @@ public class DriverClass extends AppCompatActivity {
     String myChildphone;
     String myChildname;
     String number;
+    int flag = 0;
     private static final int MY_PERMISSIONS_REQUEST_SEND_SMS =0;
 
     @Override
@@ -72,8 +73,10 @@ public class DriverClass extends AppCompatActivity {
                 progressDialog.dismiss();
                 tvname.setVisibility(View.VISIBLE);
                 tvnameshow.setText(myChildname);
+                flag = 3;
                 if(tvnameshow.getText().length()== 0)
                 {
+                    flag = 1;
                     Toast.makeText(DriverClass.this,"Vehicle is not registered",Toast.LENGTH_LONG).show();
                 }
 
@@ -83,6 +86,7 @@ public class DriverClass extends AppCompatActivity {
             public void onCancelled(FirebaseError firebaseError) {
                 progressDialog.dismiss();
                 Toast.makeText(getApplicationContext(),"Error retrieving data",Toast.LENGTH_SHORT).show();
+                flag=2;
 
             }
         });
@@ -92,12 +96,14 @@ public class DriverClass extends AppCompatActivity {
                 myChildphone = dataSnapshot.getValue(String.class);
                 tvphone.setVisibility(View.VISIBLE);
                 tvphoneShow.setText(myChildphone);
+
                 progressDialog.dismiss();
             }
 
             @Override
             public void onCancelled(FirebaseError firebaseError) {
                 progressDialog.dismiss();
+                flag = 2;
                 Toast.makeText(getApplicationContext(),"Error retrieving value",Toast.LENGTH_SHORT).show();
 
             }
@@ -107,6 +113,24 @@ public class DriverClass extends AppCompatActivity {
     }
     public void btn_send(View v)
     {
+        if(flag == 1)
+        {
+            //vehivle number is missing
+            et1.setError("No records found for this");
+            et1.requestFocus();
+            return;
+        }
+        if(flag == 2)
+        {
+            et1.setError("Please try again");
+            et1.requestFocus();
+            return;
+
+        }
+        if(flag != 3)
+        {
+            return;
+        }
 
         if (ContextCompat.checkSelfPermission(this,
                 Manifest.permission.SEND_SMS)

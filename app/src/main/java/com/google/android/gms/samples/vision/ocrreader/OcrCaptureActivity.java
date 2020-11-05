@@ -233,7 +233,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
     protected void onDestroy() {
         super.onDestroy();
         if (preview != null) {
-            preview.release();
+            //preview.release();
         }
     }
 

@@ -15,5 +15,5 @@
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Register</string>
-    <string name="title_notifications">Our Team</string>
+    <string name="title_notifications">Info</string>
 </resources>

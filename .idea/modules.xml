@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ocr-reader-start.iml" filepath="$PROJECT_DIR$/ocr-reader-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number-Plate-Scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/Number-Plate-Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Number-Plate-Scanner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Number-Plate-Scanner.app.iml" />
     </modules>
   </component>
 </project>

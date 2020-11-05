@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/2e55d2410c478a3d9cd05d8e56b2c51e/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/2e55d2410c478a3d9cd05d8e56b2c51e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71017534f167b3fc0795c4ca4b99b954/mediarouter-v7-26.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71017534f167b3fc0795c4ca4b99b954/mediarouter-v7-26.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71017534f167b3fc0795c4ca4b99b954/mediarouter-v7-26.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

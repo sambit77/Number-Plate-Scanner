@@ -3,6 +3,10 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/130d6463e9fc760b77d85d80bc32630b/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/130d6463e9fc760b77d85d80bc32630b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/b73ee042cea6ef5c8aa6571328f5933b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/426db75b16d0c4e9b29e5f94ccdfa0f7/firebase-iid-interop-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/426db75b16d0c4e9b29e5f94ccdfa0f7/firebase-iid-interop-16.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/426db75b16d0c4e9b29e5f94ccdfa0f7/firebase-iid-interop-16.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -3,6 +3,10 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/cded3d74e53379df3a8a944524e5124c/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/cded3d74e53379df3a8a944524e5124c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/404fda9e68c0f713cdbc1a0a92403b7c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/370a9e9b025afa0b9d3205ade43dfb66/play-services-identity-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/370a9e9b025afa0b9d3205ade43dfb66/play-services-identity-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/370a9e9b025afa0b9d3205ade43dfb66/play-services-identity-12.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

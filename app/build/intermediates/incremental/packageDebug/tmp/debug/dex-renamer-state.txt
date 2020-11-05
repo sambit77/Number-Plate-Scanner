@@ -1,10 +1,10 @@
-#Sun May 26 20:51:55 IST 2019
-path.2=classes2.dex
-path.1=classes.dex
+#Thu Nov 05 18:37:26 IST 2020
+path.2=classes3.dex
+path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=F\:\\vision api\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
-base.1=F\:\\vision api\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
-base.0=F\:\\vision api\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.2=D\:\\Number-Plate-Scanner\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
+base.1=D\:\\Number-Plate-Scanner\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+base.0=D\:\\Number-Plate-Scanner\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
